@@ -1,0 +1,5 @@
+.foo {
+  @extend %bar
+//        ↑
+// This is a placeholder selector
+}
