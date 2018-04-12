@@ -1,5 +1,3 @@
-.foo {
-  @extend %bar
-//        ↑
-// This is a placeholder selector
+p {
+  @extend .some-class;
 }
